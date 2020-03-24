@@ -1,0 +1,6 @@
+.boards{
+	box-shadow: 0 10px 35px rgba(0,0,0,0.2);
+	border-radius: 5px;
+	padding : 50px;
+	margin: 50px;
+}
